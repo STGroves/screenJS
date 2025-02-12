@@ -1,7 +1,7 @@
 package screret.screenjs;
 
 import dev.architectury.registry.client.keymappings.KeyMappingRegistry;
-import dev.latvian.mods.kubejs.BuilderBase;
+import dev.latvian.mods.kubejs.registry.BuilderBase;
 import net.minecraft.client.KeyMapping;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.server.level.ServerPlayer;
